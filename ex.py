@@ -11,7 +11,7 @@ def high_and_low(numbers):
 
     return f'"{m} {mi}"'
 
-
+print('Aktanbek')
 
 high_and_low('1 9 3 4 -5')
 a = '-4'
